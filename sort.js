@@ -1,2 +1,2 @@
-const number = [1, 11, 7, 45, 38];
+const number = [1, 13, 7, 45, 38];
 console.log(numher);
