@@ -6,6 +6,6 @@ const sortNumber = function (number) {
      return a < b ? -1 : 1;
   });
 };
-const number = [19, 3, 1, 13, 81, 45, 38];
+const number = [19, 3, 13, 81, 45, 38];
 sortNumber(number);
 console.log(numher);
